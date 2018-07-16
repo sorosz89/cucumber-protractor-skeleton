@@ -1,4 +1,4 @@
-# ui-automation-webinar
+# cucumber-protractor-skeleton
 
 To install:
 
